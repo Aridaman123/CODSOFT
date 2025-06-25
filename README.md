@@ -10,3 +10,14 @@ Use historical customer data, including features like usage behavior and custome
 # ✅ XGB
 # ✅ SVC
 # ✅ Gradient Boosting to predict churn
+
+## Task 2 - Fraud Detection
+- detect fraudulent credit card transactions.
+Use algorithms like:
+
+# ✅ Logistic Regression
+# ✅ Decision Tree
+# ✅ Random Forests
+# ✅ XGB
+# ✅ SVC
+# ✅ GaussianNB
