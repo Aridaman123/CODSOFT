@@ -6,12 +6,6 @@ I forecasted stock prices using the Monte Carlo simulation. I used this data to 
 
 ![image](https://github.com/beingamanforever/Monte-Carlo-Simulation/assets/121532863/efe41626-39c0-4113-9905-2c40e556040c)
 
-# Important Links
-> [!IMPORTANT]
-> Do refer the following links for the complete overview and documentation of the project
-Medium Documentation - [Link](https://medium.com/@beingamanforever/portfolio-optimisation-using-monte-carlo-simulation-25d88003782e)
-, Alternate approach via Quantum Computing methods - [Medium Link](https://medium.com/@beingamanforever/quantum-computing-for-portfolio-optimization-58c8c93cd420) , [Github Repository Link](https://github.com/beingamanforever/MCS-using-Quantum-Computing)
-
 # Further Recommendations
 > [!TIP]
 > Some further recommendations upon which the model may be extended to gather more insights.
@@ -32,5 +26,4 @@ Medium Documentation - [Link](https://medium.com/@beingamanforever/portfolio-opt
 2. QuantPy youtube channel
 3. Blogs on Medium
 4. Qiskit documentation on portfolio optimisation
-5. Portfolio Optimization using Qiskit and Eikon Data API [Link](https://medium.com/@beingamanforever/quantum-computing-for-portfolio-optimization-58c8c93cd420)
 7. MIT lectures on Monte Carlo Simulation [here](https://www.youtube.com/watch?v=OgO1gpXSUzU)
