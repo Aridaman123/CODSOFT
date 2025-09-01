@@ -1,4 +1,4 @@
-# CODSOFT
+# Oasis-Infobyte
 # Monte-Carlo-Simulation
 The objective of this project is to develop a Monte Carlo simulation model for portfolio optimization to maximise an investor's max returns off a given investment amount vested among various assets. It required to construct and analyze portfolios composed of various asset classes (e.g., stocks, bonds, and alternative investments) to maximize expected returns while managing risk.
 
